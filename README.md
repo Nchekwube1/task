@@ -1,14 +1,12 @@
 # Recruitment task for digicore Limited
 
-## run
+Make changes to the _src/logic.ts_ file and view results in the console
 
-## you can make changes to the _src/logic.ts_ file and run npm start or yarn start to view results in the console
+```bash
+npm start or yarn start
+```
 
-## and run npm run test or yarn test again to view results
-
-## Run Locally
-
-Clone the project
+Run Locally by cloning the project
 
 ```bash
   git clone https://github.com/Nchekwube1/task
